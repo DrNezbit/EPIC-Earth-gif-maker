@@ -2,12 +2,11 @@ import asyncio,json,os
 from urllib import request
 from datetime import datetime,timedelta
 
-# INSTALL IMAGEIO
-#python -m pip install imageio
+
 import imageio
 import imageio.v3 as iio
 
-#INSTALL PIL : python -m pip install --upgrade Pillow
+
 #TO RESIZE IMAGE UNCOMMENT BELOW AND LINE 75
 ##################################################
 #from PIL import Image
